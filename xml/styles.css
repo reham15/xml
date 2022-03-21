@@ -1,0 +1,32 @@
+.content
+{
+ height:700px;
+ width:500px;
+ background-color: rgb(248, 242, 234);
+margin:auto
+}
+.right
+{
+margin :50px;
+
+}
+input{
+
+
+    width:400px;
+    height:40px;
+}
+button
+{
+width:150px;
+text-align: center;
+margin:10px;
+margin-top: 0px;
+}
+.btns
+{
+display:flex;
+flex-wrap: wrap;
+justify-content:center;
+
+}

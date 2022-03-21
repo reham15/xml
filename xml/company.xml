@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+
+
+
+
+
+
+
+
+
+
+<employee>
+<name>reham</name>
+<phone>019653265623</phone>
+<adress>cairo Egypt</adress>
+<email>reham1234@gmail.com</email>
+</employee>
+<employee>
+<name>dina</name>
+<phone>019653265623</phone>
+<adress>cairo Egypt</adress>
+<email>dinaalaa@gmail.com</email>
+</employee>
+<employee>
+<name>rowan</name>
+<phone>019653265623</phone>
+<adress>cairo Egypt</adress>
+<email>rowan01234@gmail.com</email>
+</employee>
+<employee>
+<name>nor</name>
+<phone>019653265623</phone>
+<adress>cairo Egypt</adress>
+<email>noor01234@gmail.com</email>
+</employee>
+<employee>
+<name>mariam</name>
+<phone>019653265623</phone>
+<adress>cairo Egypt</adress>
+<email>mariam1234@gmail.com</email>
+</employee>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<employee><name>shimaa</name><phone>0196536565623</phone><address>cairo Egypt</address><email>shimaa234@gmail.com</email></employee></employees>
